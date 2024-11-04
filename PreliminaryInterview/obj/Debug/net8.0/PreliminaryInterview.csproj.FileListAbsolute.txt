@@ -1,0 +1,14 @@
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\bin\Debug\net8.0\PreliminaryInterview.exe
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\bin\Debug\net8.0\PreliminaryInterview.deps.json
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\bin\Debug\net8.0\PreliminaryInterview.runtimeconfig.json
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\bin\Debug\net8.0\PreliminaryInterview.dll
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\bin\Debug\net8.0\PreliminaryInterview.pdb
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.AssemblyInfoInputs.cache
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.AssemblyInfo.cs
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.dll
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\refint\PreliminaryInterview.dll
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.pdb
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\PreliminaryInterview.genruntimeconfig.cache
+C:\Users\ABDULLATEEF\Desktop\PreliminaryInterview\PreliminaryInterview\obj\Debug\net8.0\ref\PreliminaryInterview.dll
